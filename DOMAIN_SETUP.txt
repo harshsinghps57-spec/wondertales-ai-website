@@ -1,0 +1,4 @@
+For production Google OAuth use a domain you actually own, e.g. YOUR-DOMAIN.example.
+Replace YOUR-DOMAIN only after you register the real domain.
+Configure a custom domain in GitHub Pages and your registrar DNS.
+Do not commit a CNAME file until your real custom domain is set.
